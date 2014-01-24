@@ -1,0 +1,6 @@
+flavor: 'Single Linux server with WordPress 3.6.1 and MySQL 5.5'
+application-name: WordPress
+icon-20x20: https://600861890ddb34a8670a-744765205721eed93c384dae790e86aa.ssl.cf2.rackcdn.com/wordpress-icon-20x20.png
+documentation:
+    abstract: "This is an abstract-text, can contain markup"
+	
